@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="5c322449-dcb1-4a21-a23d-4441c920fa19" name="@b778c7beafa4 2023-06-06 12:15:01" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2023-06-06T12:15:01.1986706+00:00" queuing="2023-06-06T12:15:01.1986707+00:00" start="2023-06-06T12:14:57.5637219+00:00" finish="2023-06-06T12:21:54.2673236+00:00" />
+  <TestSettings name="default" id="8211d8e9-8963-454c-8fe1-782ea120b3e0">
+    <Deployment runDeploymentRoot="_b778c7beafa4_2023-06-06_12_15_01" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="d1e6dee7-cde7-4d1c-b219-b71738e5e6a9" testId="e4bffa99-4d4b-243c-1137-c51e3246f105" testName="SelectADF1(Iteration #07: Profile 4)" computerName="b778c7beafadf4" duration="00:00:00.0361680" startTime="2023-06-06T12:20:35.4373319+00:00" endTime="2023-06-06T12:20:35.4734996+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d1e6dee7-cde7-4d1c-b219-b71738e5e6a9">
+      <Output>
+        <StdOut>aaaaaaaaaaaaaaaaaaaaaaabc</StdOut>
+        <ErrorInfo>
+          <Message>Unimplemented feature</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b1ade4cf-4d56-45a9-97b9-3c0b81ef19d9" testId="a472907c-a59e-3aea-e154-af0a66f20eed" testName="GetData_InvalidP2(209)" computerName="b778c7beafa4" duration="00:00:00.0207369" startTime="2023-06-06T12:19:06.2981989+00:00" endTime="2023-06-06T12:19:06.3189360+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1ade4cf-4d56-45a9-97b9-3c0b81ef19d9">
+      <Output>
+        <StdOut>xxxxxxxxxxxxxxxxxxxxxxxx</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="730d1ac7-ae7a-4844-935b-24522a6488b2" testId="a56a0dd8-da39-d5a5-9290-7ef72961d6d8" testName="GetData_InvalidP1(189)" computerName="b778c7beafa4" duration="00:00:00.0199550" startTime="2023-06-06T12:18:44.4748373+00:00" endTime="2023-06-06T12:18:44.4947920+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="730d1ac7-ae7a-4844-935b-24522a6488b2">
+      <Output>
+        <StdOut>asdfasdfasdfsadfsadfsdaf</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

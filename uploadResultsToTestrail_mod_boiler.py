@@ -14,6 +14,8 @@ def parse_xml_file(file_path):
     except ET.ParseError as e:
         print(f"Error parsing XML file: {str(e)}")
 
+print("start")
+
 # Provide the path to your XML file here
-xml_file_path = "path/to/your/xml/file.xml"
+xml_file_path = "SxTestResult.trx"
 parse_xml_file(xml_file_path)
